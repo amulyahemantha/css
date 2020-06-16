@@ -1,0 +1,55 @@
+h1
+{
+ text-shadow: 2px 2px 5px red;
+background-color:#9FFABC;
+color:#922B21 ;
+border-style: dotted;
+border-style: solid;
+font-size:50px;
+font-style:italic;
+ text-align: center;
+text-transform: capitalize;
+word-spacing: 16px;
+
+}
+h2
+{
+font-size:32px;
+background-color:#FFC7F7;
+color:#7D3C98 ;
+}
+body
+{
+  background-image: url("img1.jpeg");
+}
+section
+{
+padding:20px;
+}
+a{
+  background-color: black;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+display: inline-block;
+margin-right:100px;
+margin-left:100px;
+}
+ul
+{
+font-size:25px;
+line-height:40px;
+}
+details
+{
+font-size:29px;
+}
+summary
+{
+font-size:29px;
+}
+p{
+font-size:40px;
+}
+
